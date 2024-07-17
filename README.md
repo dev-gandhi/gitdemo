@@ -1,4 +1,4 @@
 # gitdemo
 this is the git demo
-<br\>
+<br/>
 this is line  2 
